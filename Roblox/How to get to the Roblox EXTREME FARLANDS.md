@@ -13,16 +13,16 @@ The **Farlands** in Roblox are glitched areas far beyond the intended map limits
 ## 🔧 Requirements
 
 - A Roblox **Baseplate** game or custom flat map  
-- A custom-built **teleport script** or **speed hack module**  
-- A **PC with high memory** (preferably 16GB+ RAM)
-- Lots of patience 😅
+- A custom-built **teleport script** or **movement module**  
+- A **high-end PC or virtual machine with 256GB+ RAM** (no joke!)
+- ⚠️ Extreme tolerance for lag, freezes, and possibly crashes
 
 ---
 
 ## 🛠️ Step-by-Step Guide
 
 ### 1. **Create or Load a Baseplate Game**
-Start with a baseplate to avoid unnecessary lag. You can use Roblox Studio to open a new Baseplate template.
+Start with a baseplate to minimize performance issues. Use Roblox Studio’s default Baseplate template.
 
 ### 2. **Insert a Teleport Script**
 
